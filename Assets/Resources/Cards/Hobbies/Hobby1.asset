@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc4613bfce794c4aa0dbb1fd521a72c, type: 3}
+  m_Name: Hobby1
+  m_EditorClassIdentifier: 
+  cardId: Hobby001
+  cardName: "\u0425\u043E\u0431\u0456"
+  description: "\u041A\u0443\u043B\u0456\u043D\u0430\u0440\u0456\u044F"
+  cardImage: {fileID: 21300000, guid: 0db61a3758ba9ed4da630e40df68900b, type: 3}
+  cardType: 1
